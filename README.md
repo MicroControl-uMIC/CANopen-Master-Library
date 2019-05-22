@@ -5,12 +5,12 @@ This repository holds the latest version of the CANopen FD Master library for th
 
 ## Installation
 
-After download of the `canopen_v5.06.00_arm.tgz` file to the µMIC.200 controller use the following
+After download of the `canopen_v5.06.07_arm.tgz` file to the µMIC.200 controller use the following
 steps for installation:
 
 ```
-tar -xzvf canopen_v5.06.00_arm.tgz
-cd canopen_v5.06.00_arm
+tar -xzvf canopen_v5.06.07_arm.tgz
+cd canopen_v5.06.07_arm
 sudo ./install.sh
 ```
 
@@ -19,6 +19,6 @@ sudo ./install.sh
 Please make sure to use the following settings in your projekt to use the library:
 
 ```
--lCANopenFD -lCANpieFD
+-lQCANopenMaster
 ```
   
