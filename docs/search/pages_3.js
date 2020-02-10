@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['introduction_20to_20can',['Introduction to CAN',['../page_8intro_can.html',1,'']]]
+  ['sae_20j1939_20support',['SAE J1939 support',['../page_8j1939.html',1,'']]]
 ];

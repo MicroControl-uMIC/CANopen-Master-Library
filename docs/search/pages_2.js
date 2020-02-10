@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['faqs',['FAQs',['../page_8ref_faqs.html',1,'']]]
+  ['introduction_20to_20can',['Introduction to CAN',['../page_8intro_can.html',1,'']]]
 ];

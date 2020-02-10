@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['faqs',['FAQs',['../page_8ref_faqs.html',1,'']]]
+  ['instance',['instance',['../classQCoEvent.html#a7b7620215343abd6b60b9130368fbedc',1,'QCoEvent']]],
+  ['introduction_20to_20can',['Introduction to CAN',['../page_8intro_can.html',1,'']]]
 ];
